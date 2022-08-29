@@ -1,0 +1,15 @@
+.float-left {
+  float: left;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.block {
+  display: block;
+}
+
+.pointer {
+  cursor: pointer;
+}
