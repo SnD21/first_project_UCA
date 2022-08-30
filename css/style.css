@@ -25,6 +25,12 @@
 
 /* --- 1- general styling --- */
 
+:root {
+  --main-color: #6195FF;
+  
+}
+
+
 * {
   margin: 0;
   padding: 0;
